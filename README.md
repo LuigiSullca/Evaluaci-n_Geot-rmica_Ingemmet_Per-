@@ -6,6 +6,10 @@ El Perú es un país que cuenta con un gran potencial de recursos geotérmicos q
 En esta ocasión analizaremos una base de datos publicada por el Gobierno Peruano, através de Ingemmet (Instituto geológico, minero, metalúrgico) y revisaremos los muestreos in situ, localización geográfica en UTM o medidas de Latitud y longitud, Zona y Bloque de ubicación, código de cada proyecto, el laboratorio involucrado y los resultados de los análisis geoquímicos.
 
 Estos datos la tenemos en la pagina: https://www.gob.pe/institucion/ingemmet/informes-publicaciones/1298404-ge-38-6-evaluacion-geotermica-en-el-peru-zona-geotermal-kovire-tacna
+
 Tambien se subió el dataset aquí para que puedan facilitarse el trabajo.
+
+
+- Se subio un archivo Excel "Conversor de unidades" ya que para geolocalizar las coordenas debemos convertir el sistema UTM a Latitud y Longitud, lo deben descubrir mediante van analizando el panorama.
 
 Ahondaremos en la limpieza de datos de este tipo de información y buscaremos la visualización correcta para entender los hallazgos de este proyecto.
