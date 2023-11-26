@@ -14,5 +14,7 @@ Tambien se subió el dataset aquí para que puedan facilitarse el trabajo.
 
 Ahondaremos en la limpieza de datos de este tipo de información y buscaremos la visualización correcta para entender los hallazgos de este proyecto.
 
-Pueden revisar el archivo Looker Studio en el siguiente enlace: https://lookerstudio.google.com/reporting/bb5dd1b9-c682-4082-8039-6093f54d27b9
+Pueden revisar el archivo Looker Studio en el siguiente enlace: 
+https://lookerstudio.google.com/s/rMNsUypOKZs
+
 
